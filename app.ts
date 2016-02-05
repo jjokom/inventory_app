@@ -192,7 +192,7 @@ class InventoryApp {
         'NICEHAT', 'A Nice Black Hat',
         '/resources/images/products/black-hat.jpg',
         ['Men', 'Accessories', 'Hats'],
-        29.99)
+        19.99)
       ];
   }
 
