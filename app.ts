@@ -191,8 +191,8 @@ class InventoryApp {
       new Product(
         'NICEHAT', 'A Nice Black Hat',
         '/resources/images/products/black-hat.jpg',
-        ['Men', 'Accessories', 'Hats'],
-        29.99)
+        ['Men', 'Accessories', 'Hats (10% Discount)'],
+        20.99)
       ];
   }
 
